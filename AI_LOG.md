@@ -16,3 +16,15 @@ doivent être essayés par les deux membres avant le dépôt.
 Une proposition de votes, d'arguments et d'estimations a été préparée avec l'aide de
 l'IA comme support de discussion. A et B doivent la confirmer ou l'adapter ensemble
 avant le dépôt ; les valeurs finales restent une décision du binôme.
+
+**## R2 - Moteur de règles et intégration continue**
+
+Le binôme a réalisé les travaux suivants :
+
+- préparation de la table de décision et des critères d'acceptation ;
+- rédaction des tests unitaires et implémentation du moteur de règles ;
+- intégration du moteur dans le système de vote local ;
+- configuration de GitHub Actions et vérification des tests ;
+- rédaction du rendu R2, notamment la création des tableaux et l'amélioration de la mise en page Markdown.
+
+L'IA générative a servi ponctuellement d'aide à la création des tableaux, à l'organisation du contenu et à l'amélioration de la présentation du document.
